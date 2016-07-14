@@ -1,4 +1,4 @@
-package br.com.ciandt.dojo.myapplication.model;
+package com.example.henriqueb.marvelapp;
 
 import java.util.List;
 

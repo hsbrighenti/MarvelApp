@@ -1,9 +1,9 @@
-package br.com.ciandt.dojo.myapplication.mock;
+package com.example.henriqueb.marvelapp;
 
 import java.util.ArrayList;
 import java.util.List;
 
-import br.com.ciandt.dojo.myapplication.model.Character;
+import com.example.henriqueb.marvelapp.Character;
 
 /**
  * Created by wgomes on 12/07/16.
