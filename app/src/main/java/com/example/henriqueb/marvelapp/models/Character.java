@@ -1,4 +1,4 @@
-package com.example.henriqueb.marvelapp;
+package com.example.henriqueb.marvelapp.models;
 
 import java.util.List;
 

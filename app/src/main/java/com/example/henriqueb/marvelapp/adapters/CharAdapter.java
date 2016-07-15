@@ -1,4 +1,4 @@
-package com.example.henriqueb.marvelapp;
+package com.example.henriqueb.marvelapp.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.CardView;
@@ -9,6 +9,8 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.example.henriqueb.marvelapp.R;
+import com.example.henriqueb.marvelapp.models.Character;
 import com.squareup.picasso.Picasso;
 
 import java.util.List;

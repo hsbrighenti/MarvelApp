@@ -1,12 +1,13 @@
-package com.example.henriqueb.marvelapp;
+package com.example.henriqueb.marvelapp.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.widget.ImageView;
 
-import com.squareup.picasso.Picasso;
+import com.example.henriqueb.marvelapp.adapters.CharAdapter;
+import com.example.henriqueb.marvelapp.Mock;
+import com.example.henriqueb.marvelapp.R;
 
 public class MainActivity extends AppCompatActivity {
     private RecyclerView mRecyclerView;

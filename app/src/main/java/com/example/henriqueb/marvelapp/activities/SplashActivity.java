@@ -1,9 +1,11 @@
-package com.example.henriqueb.marvelapp;
+package com.example.henriqueb.marvelapp.activities;
 
 import android.content.Intent;
 import android.os.SystemClock;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.example.henriqueb.marvelapp.activities.MainActivity;
 
 import java.util.concurrent.TimeUnit;
 

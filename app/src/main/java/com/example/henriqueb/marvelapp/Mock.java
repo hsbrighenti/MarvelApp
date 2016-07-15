@@ -3,7 +3,7 @@ package com.example.henriqueb.marvelapp;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.example.henriqueb.marvelapp.Character;
+import com.example.henriqueb.marvelapp.models.Character;
 
 /**
  * Created by wgomes on 12/07/16.
