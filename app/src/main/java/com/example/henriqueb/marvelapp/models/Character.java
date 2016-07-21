@@ -1,12 +1,13 @@
 package com.example.henriqueb.marvelapp.models;
 
+import java.io.Serializable;
 import java.util.List;
 
 /**
  * Created by wgomes on 12/07/16.
  */
 
-public class Character {
+public class Character implements Serializable{
 
     public String id;
     public String name;
